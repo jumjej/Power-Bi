@@ -1,0 +1,11 @@
+ID,Product,Description,Product Category
+1,Travel Insurance,Coverage for trip cancellations and emergencies,Services
+2,Extra Baggage Allowance,Additional weight limit for checked luggage,In-Flight
+3,In-Flight Wi-Fi,Internet access during the flight,Services
+4,Seat Selection,Choice of preferred seating (aisle/window),Services
+5,Priority Boarding,Early boarding privileges,Services
+6,In-Flight Meals,Pre-ordered meals for the flight,In-Flight
+7,Not assigned,Not assigned,Not assigned
+8,Travel Accessories,"Neck pillows, eye masks, and travel kits",In-Flight
+9,Car Rental,Vehicle rental at the destination,After flight
+10,Hotel Booking,Accommodation at the destination,After flight
